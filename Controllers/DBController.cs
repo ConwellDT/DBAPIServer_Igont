@@ -18,8 +18,8 @@ namespace DBAPIServer.Controllers
 
         static object lockObj = new();
 
-        [HttpGet("{spName}")]
-        public string Get(string spName, [FromQuery] string req_seq)
+        [HttpGet("{spName}/{{req_seq}}")]
+        public string Get(string spName, string req_seq)
         {
             log.Info($"Get API Called. Procedure : {spName}. Parameters : {req_seq}");
 

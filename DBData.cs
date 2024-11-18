@@ -1,12 +1,4 @@
-﻿
-using System;
-using System.Collections.Generic;
-using System.Collections.Specialized;
-using System.Configuration;
-using Microsoft.Extensions.Configuration;
-using System.Web;
-using CW.Database;
-using System.Data;
+﻿using System.Data;
 
 
 namespace DBAPIServer

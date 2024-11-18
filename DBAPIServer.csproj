@@ -18,7 +18,7 @@
 
   <ItemGroup>
     <Reference Include="CW.Framework">
-      <HintPath>bin\Debug\CW.Framework.dll</HintPath>
+      <HintPath>C:\Users\FA0121\Desktop\WCS_RESTfulAPI\DataSpiderRestServer\bin\Debug\CW.Framework.dll</HintPath>
     </Reference>
   </ItemGroup>
 
