@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBAPIServer", "DBAPIServer.csproj", "{58CF7AA9-6219-4340-90FC-32B4C56DA541}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RESTfulAPIClient", "..\RESTfulAPIClient\RESTfulAPIClient.csproj", "{4D4F372E-7821-47D4-A522-4F2F3C2EB5EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RESTfulAPIClient_Igont", "..\RESTfulAPIClient_Igont\RESTfulAPIClient_Igont.csproj", "{4D4F372E-7821-47D4-A522-4F2F3C2EB5EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
