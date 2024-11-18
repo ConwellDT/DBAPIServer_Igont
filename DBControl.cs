@@ -1,5 +1,6 @@
-﻿using Microsoft.Extensions.Configuration;
-using CW.Database;
+﻿using CW.Database;
+
+using Microsoft.Extensions.Configuration;
 
 namespace DBAPIServer
 {
